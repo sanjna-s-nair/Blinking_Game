@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "flower_collider.jpg",
+  "identifier": "texture:6899-093b4ce6-f296-4054-8f31-dcec7d0ac502",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "aad946a35c2e580e5c4a0d6e373df8ae",
+  "assetLocator": "textures/flower_collider.jpg.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:7109-093b4ce6-f296-4054-8f31-dcec7d0ac502",
+    "textureExportConfig:7315-093b4ce6-f296-4054-8f31-dcec7d0ac502",
+    "textureExportConfig:7527-093b4ce6-f296-4054-8f31-dcec7d0ac502"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 445,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 509,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "aad946a35c2e580e5c4a0d6e373df8ae",
+      "colorCount": 20526,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 8.562598183380896,
+      "pixelsHigh": 445,
+      "pixelsWide": 509
+    }
+  ]
+}

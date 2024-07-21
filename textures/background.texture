@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "background",
+  "identifier": "texture:2575-0a8fdafc-ea50-41b3-8252-0bc402968d96",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "296a787cb89aed53fc61911481bd6e4d",
+  "assetLocator": "textures/background.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:2691-0a8fdafc-ea50-41b3-8252-0bc402968d96",
+    "textureExportConfig:2809-0a8fdafc-ea50-41b3-8252-0bc402968d96",
+    "textureExportConfig:2929-0a8fdafc-ea50-41b3-8252-0bc402968d96"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 600,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "296a787cb89aed53fc61911481bd6e4d",
+      "colorCount": 9135,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 5.88533548607603,
+      "pixelsHigh": 600,
+      "pixelsWide": 1024
+    }
+  ]
+}

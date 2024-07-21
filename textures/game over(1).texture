@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "game over(1)",
+  "identifier": "texture:12547-093b4ce6-f296-4054-8f31-dcec7d0ac502",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "837ba1c364eeff19629e0c79d9a1f665",
+  "assetLocator": "textures/game over(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 605,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 488,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "837ba1c364eeff19629e0c79d9a1f665",
+      "colorCount": 32735,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 8.610652894234155,
+      "pixelsHigh": 605,
+      "pixelsWide": 488
+    }
+  ]
+}

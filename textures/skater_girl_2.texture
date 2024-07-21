@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "skater_girl_2",
+  "identifier": "texture:3938-0a8fdafc-ea50-41b3-8252-0bc402968d96",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "85ded762a19f3f7bee8786c78c910fd5",
+  "assetLocator": "textures/skater_girl_2.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:4092-0a8fdafc-ea50-41b3-8252-0bc402968d96",
+    "textureExportConfig:4248-0a8fdafc-ea50-41b3-8252-0bc402968d96",
+    "textureExportConfig:4410-0a8fdafc-ea50-41b3-8252-0bc402968d96"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 390,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 289,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "85ded762a19f3f7bee8786c78c910fd5",
+      "colorCount": 13850,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 8.295610228205774,
+      "pixelsHigh": 390,
+      "pixelsWide": 289
+    }
+  ]
+}

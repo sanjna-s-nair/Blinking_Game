@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "dog_collider",
+  "identifier": "texture:6903-093b4ce6-f296-4054-8f31-dcec7d0ac502",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "92712ad575b8aff665cfab32ae62dc71",
+  "assetLocator": "textures/dog_collider.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:7107-093b4ce6-f296-4054-8f31-dcec7d0ac502",
+    "textureExportConfig:7313-093b4ce6-f296-4054-8f31-dcec7d0ac502",
+    "textureExportConfig:7525-093b4ce6-f296-4054-8f31-dcec7d0ac502"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 446,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 463,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "92712ad575b8aff665cfab32ae62dc71",
+      "colorCount": 4222,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 6.081395703163213,
+      "pixelsHigh": 446,
+      "pixelsWide": 463
+    }
+  ]
+}
